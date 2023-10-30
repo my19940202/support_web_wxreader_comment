@@ -1,0 +1,9 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.popup-wrapper {
+    width: 320px;
+    height: 180px;
+    background-color: antiquewhite;
+}
